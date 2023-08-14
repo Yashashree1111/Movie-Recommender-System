@@ -31,3 +31,11 @@ TMDb may ask for information about your intended use of the API. Fill out the re
 
 Generate API Key:
 After providing the necessary information, you'll be issued an API key. This key is unique to your account and is required to make requests to the TMDb API.
+
+### Running the App
+
+To start the Streamlit app, run the following command:
+$ streamlit run app.py
+
+This will launch a local server and open the app in your default web browser.
+
