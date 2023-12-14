@@ -39,3 +39,8 @@ $ streamlit run app.py
 
 This will launch a local server and open the app in your default web browser.
 
+OUTPUT
+![Screenshot (783)](https://github.com/Yashashree1111/Movie-Recommender-System/assets/106982749/146a3241-1bc9-4225-b84d-5bd9b6e80909)
+
+![Screenshot (784)](https://github.com/Yashashree1111/Movie-Recommender-System/assets/106982749/68a966a2-3309-4d18-b176-0e2f7c93465b)
+
